@@ -1,0 +1,17 @@
+Fake News Detection.
+
+Get the input :  News Article. 
+
+Transformer:
+    BERT, DistilBERT, RoBERTa.
+
+from the article, extract important factual sentences -> Claims
+
+Send Each Claims to a fact-checking services like : Google Fact Check Tools API
+
+Verification : True or False
+
+Output
+    Fake/Real Prediction
+    Extracted Claims
+    Result of Verification.
