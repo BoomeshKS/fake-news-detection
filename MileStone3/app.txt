@@ -15,3 +15,11 @@ Output
     Fake/Real Prediction
     Extracted Claims
     Result of Verification.
+
+Output
+    input
+    Transformer
+    Claims -> API    
+    Real/Fake -> percentage 
+
+

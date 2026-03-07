@@ -1,12 +1,2 @@
-spacy model imported
-
-func clean_text()
-
-func get_db
-
-def home
-    []
-    template to get the inputs
-    processing
-    store in db.
-
+Docker
+Install
