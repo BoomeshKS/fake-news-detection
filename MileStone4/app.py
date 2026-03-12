@@ -10,7 +10,6 @@ metrics = {
     "articles_analyzed": 0
 }
 
-
 @app.route("/analyze", methods=["POST"])
 def analyze():
 
@@ -39,4 +38,4 @@ def analyze():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0",debug=True)

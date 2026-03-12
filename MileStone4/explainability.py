@@ -8,7 +8,6 @@ suspicious_patterns = {
     "big pharma": "Conspiracy narrative."
 }
 
-
 def highlight_claims(text):
 
     found = []
