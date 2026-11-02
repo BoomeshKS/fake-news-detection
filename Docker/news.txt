@@ -1,0 +1,16 @@
+Docker
+    Images -> 3 Images
+    Container -> one container consisting 3 images.
+
+Frontend : React
+Backend : Flask, Spring, Node js, .net ...
+Database : MYSQL
+
+Github : Store Our Code.
+
+Dockerfile -> Frontend, Backend, Database
+FT -> Node.js, npm run dev
+BD -> Python
+DB -> MYSQL
+
+docker pull yourname/flask-app
